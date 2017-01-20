@@ -6,6 +6,6 @@ Package: valair
 ]()
 ###Provides:
   * valair
-####Section: games
+####Section: checkinstall
 ####Installed-Size: 240
 ####Priority: extra

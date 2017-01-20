@@ -1,50 +1,50 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Origin: user.github.io
-Label: user.github.io
+Origin: cmotc.github.io/lair-web/lair-deb
+Label: cmotc.github.io/lair-web/lair-deb
 Codename: rolling
-Date: Fri, 20 Jan 2017 17:31:16 UTC
+Date: Fri, 20 Jan 2017 17:39:35 UTC
 Architectures: amd64 i386
 Components: main
 MD5Sum:
  337efcc53ab546fae206d6ca928cb89c 4646 main/binary-amd64/Packages
  c73a1ba373f0f66365d66d226c335e07 1920 main/binary-amd64/Packages.gz
- 4ab58044c6b448b05a455526215745f2 81 main/binary-amd64/Release
+ 4e4ce72dcd691f383a6f537709488b05 119 main/binary-amd64/Release
  56411f8133cac49371b3f73e56a6d430 3761 main/binary-i386/Packages
  a1cb295b42e333a9beae92a936c550e6 1547 main/binary-i386/Packages.gz
- 31977a538aa5db3a1328cc69f4ceeea3 80 main/binary-i386/Release
+ df3c43484a2c6b566c5d2495b40229d0 118 main/binary-i386/Release
  890b2709f36e87022fc5a972ff3cb7c6 3580 main/source/Sources
  a92b0e6a082877ffbfa761cef84bfa69 1325 main/source/Sources.gz
- c9a8a2162f3a4cf7a29c7e2d9ea0dbc4 82 main/source/Release
+ 7aecc170d29fdeab20d54b0cdd092eea 120 main/source/Release
 SHA1:
  820f75d475e59d23fd57e26284f4b92a7407c80f 4646 main/binary-amd64/Packages
  68a1c407260ab277e3e515b7ffebdf0d447386fa 1920 main/binary-amd64/Packages.gz
- 5c07493eab9a9262c061a06cfd7926f8de648af2 81 main/binary-amd64/Release
+ 84aaaa2d513d2d8b0dd1f6b03578b8533abd9b5b 119 main/binary-amd64/Release
  80ec85b2f279a0222ad5648a3017497a7e34230e 3761 main/binary-i386/Packages
  6e9b333986efe12876e8ebd419e3615e17a58c83 1547 main/binary-i386/Packages.gz
- 15fe7b63c4e039307af61512807d11c9742135b3 80 main/binary-i386/Release
+ 3050e77fad9efac2b2de1a363c9ebb0ea4cf2928 118 main/binary-i386/Release
  8d43d4a1043875b18dcc904ed5a8574623f200ca 3580 main/source/Sources
  a892397fb6b81dd2aa5bbb2eb8162640997b9629 1325 main/source/Sources.gz
- 79978b3ad251c6974370f29850c87a64d288e545 82 main/source/Release
+ a5894301c52fcc84a32df7c5ac0ed536adedc3fd 120 main/source/Release
 SHA256:
  0e38f40cc8f3e405f01df158dd038cf442cdf03c018e7c2ee8700a8ab9256813 4646 main/binary-amd64/Packages
  5cd90d7de6416e25c2ded4bf0e4bb28e6e9ce87e62ca4211b18f533319ddbada 1920 main/binary-amd64/Packages.gz
- 2fc6470b1c3805fb58a71b7491a2b854a419af426209a3ff803cb10f45cd4887 81 main/binary-amd64/Release
+ f63c36bd2dda349507c67edd65736b16c05b39eb77d5a63dfc34b19a3071155d 119 main/binary-amd64/Release
  bee7d783ce5121b09e6ac9ae8b61bc10ec5f67ce0e59cecd6dab7d4044124024 3761 main/binary-i386/Packages
  671b92f89b3c6441cee99e8df32ace06a9a0889040e930d67170711c8ac7e357 1547 main/binary-i386/Packages.gz
- c8edc184c9e95294919bae1d334c21f3590d3ba806a1480e1c904edcbf5adc5e 80 main/binary-i386/Release
+ 15623991a9f16a15fb22cae30b67b078db21badefc49f459bb9272d5e6ea6e1d 118 main/binary-i386/Release
  efa23467ddb4f591db5e36d4e8f32ca0a626823762b2c68d004dc58ac2f28111 3580 main/source/Sources
  3660c929f210f8f676458f179d07e66ff2c6475a0fa2ddb9d96ef3bf0d2f3dd4 1325 main/source/Sources.gz
- db901c85e60302d0c967a499bca93b5a23ea8de0a81b5fb8fef6063eaa72682a 82 main/source/Release
+ e4f506bd982fabce38f8c27a1842a757146b0a7074d8870c461da3aa30edc792 120 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEwM7uKXtf5F/2EKrG8F+F+kRsBCsFAliCSWQACgkQ8F+F+kRs
-BCsNPAgAwNJqz94zrEHdJ5XNpfztVn4683cq3TeIDFsh3U2BjTwAirhr41wIBjDb
-SFUxpDkLGazr0lT+aDyq+DEzEnEt0IIs5RCS8DL9cNFQyg2Ezi9sDwEDwg/2wL9t
-vUeKk4xLG2sEbAA2ZUCahLtYKtLeII0w1Ls0I5Lwev2OR9nxPSU39K3SFw0V1mzw
-0HQlYw3RfjkHLd2qMo5g8bNUZs2LtIbOWZnKGdRg9guLslxOmKa9viA7PMjQafp5
-ShToDij35QC+ZGcI14gWcgxNZDHBdGF6oLM4ijHkFJdobX2BJl7FX2ogfU792I/+
-ut6nrMuonCkBiawR4hWbALdQcICcZg==
-=62PC
+iQEzBAEBCAAdFiEEwM7uKXtf5F/2EKrG8F+F+kRsBCsFAliCS1cACgkQ8F+F+kRs
+BCtWDggAtXCMfSLP18WQH5i8l8/cZiTTvy4sPqrdLKLncfXpBAB49j+uZVkeJYhb
+bhUYhD+sPbvnOTH52Sgtb90tOWwFvk3QhOXGkbpA9g6WY3LeAjIUsKCoS4k3gqQK
+10TY4/xBi+bsft422yYFsgv8qMx+ZeAKu+RiYwA2MgWHcb6mIdFF5/eLkY+SAZyM
+D7D2M4rvbeFm22bLYhcIFyGJtDTOf2vcmFLF8u921KRt2PyuIRizObHe0M/3ZSZ9
+/xsymKv96ty+KHbfdd7/msjfzDs+jl8fKLx2w+AQv3j9E58Xv3YF3tjKDOp9yIpF
+nSE3DkaoC8IPpqyifLOUE2rbtBGXXw==
+=zXvG
 -----END PGP SIGNATURE-----

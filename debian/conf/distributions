@@ -1,8 +1,8 @@
-Origin: cmotc.github.io
-Label: cmotc.github.io
+Origin: cmotc.github.io/lair-deb
+Label: cmotc.github.io/lair-deb
 Codename: rolling
-Architectures: amd64 i386 armhf source
+Architectures: amd64 i386 source
 Components: main
-SignWith: 00AE637E
+SignWith: C0CEEE297B5FE45FF610AAC6F05F85FA446C042B
 DebOverride: override.testing
 DscOverride: override.testing

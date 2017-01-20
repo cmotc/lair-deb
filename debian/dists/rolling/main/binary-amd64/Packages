@@ -99,12 +99,12 @@ Architecture: amd64
 Version: 0.9-1
 Provides: valair
 Priority: extra
-Section: checkinstall
+Section: games
 Filename: pool/main/v/valair/valair_0.9-1_amd64.deb
-Size: 48468
-SHA256: 47ff7525a73e4e43e0c01a4e781f23c95065a8bf35329fd59bc66ff142af6c0b
-SHA1: ccc9a338de95d6d41ae7a91f93d3b38cbdf0cfbf
-MD5sum: 59a0c6541019b974ccd17127c2770070
+Size: 48442
+SHA256: db5d8943ec89f48d27ca3ed0e72f2d3da3a067d1786e8d3a129a664af143e1e2
+SHA1: b8aa7c1bc31e75a5c3d6defe2887672a8fc2d766
+MD5sum: 6d98bbe508b670d92910695884d1c463
 Description: LAIR! Roguelike Game, version 0.9
  LAIR is a Procedurally Generated Mutliplayer Rogue-Like Game
 

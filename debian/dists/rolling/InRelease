@@ -4,12 +4,12 @@ Hash: SHA256
 Origin: cmotc.github.io/lair-web/lair-deb
 Label: cmotc.github.io/lair-web/lair-deb
 Codename: rolling
-Date: Fri, 20 Jan 2017 18:00:07 UTC
+Date: Fri, 20 Jan 2017 18:21:04 UTC
 Architectures: amd64 i386
 Components: main
 MD5Sum:
- d542147e0030e7d665154c83af7154cc 4709 main/binary-amd64/Packages
- 2987c371bc8addc32a7e9c36bdf7b0ff 1977 main/binary-amd64/Packages.gz
+ ff2740cf72c7ca8750b5a438a7d8ebd6 4702 main/binary-amd64/Packages
+ 5ca242a32a3ef49ade2964589b1fadb5 1983 main/binary-amd64/Packages.gz
  4e4ce72dcd691f383a6f537709488b05 119 main/binary-amd64/Release
  56411f8133cac49371b3f73e56a6d430 3761 main/binary-i386/Packages
  a1cb295b42e333a9beae92a936c550e6 1547 main/binary-i386/Packages.gz
@@ -18,8 +18,8 @@ MD5Sum:
  a92b0e6a082877ffbfa761cef84bfa69 1325 main/source/Sources.gz
  7aecc170d29fdeab20d54b0cdd092eea 120 main/source/Release
 SHA1:
- 70b2e9fb85a8df929ef32cd09ac5183013f1ba4f 4709 main/binary-amd64/Packages
- 5601635ee3010dc8ce68b7073916d9062f9d6f82 1977 main/binary-amd64/Packages.gz
+ 36d196fb7cc6e8f985a1d59c5f32c688b8062b9a 4702 main/binary-amd64/Packages
+ 56ed2d486238bfe98ad3fbddf9d25abaa80559ed 1983 main/binary-amd64/Packages.gz
  84aaaa2d513d2d8b0dd1f6b03578b8533abd9b5b 119 main/binary-amd64/Release
  80ec85b2f279a0222ad5648a3017497a7e34230e 3761 main/binary-i386/Packages
  6e9b333986efe12876e8ebd419e3615e17a58c83 1547 main/binary-i386/Packages.gz
@@ -28,8 +28,8 @@ SHA1:
  a892397fb6b81dd2aa5bbb2eb8162640997b9629 1325 main/source/Sources.gz
  a5894301c52fcc84a32df7c5ac0ed536adedc3fd 120 main/source/Release
 SHA256:
- 6230632602ca87b44a7a5735e45b2896d8139e4203b3ddc6a3f2c96bfa6a0716 4709 main/binary-amd64/Packages
- 1635adf2f317f01bf7070717056b1a27ed3d7b31e523674d0b5a7d9d7bf35695 1977 main/binary-amd64/Packages.gz
+ e4b9ead4d0e17ea4117a1e5e0b668edbb6750dee220872e42f8207273c88f3ed 4702 main/binary-amd64/Packages
+ 7b456c13b8a7187ca4babc6d2349e5c9775362779f628e7723267fd41e80e023 1983 main/binary-amd64/Packages.gz
  f63c36bd2dda349507c67edd65736b16c05b39eb77d5a63dfc34b19a3071155d 119 main/binary-amd64/Release
  bee7d783ce5121b09e6ac9ae8b61bc10ec5f67ce0e59cecd6dab7d4044124024 3761 main/binary-i386/Packages
  671b92f89b3c6441cee99e8df32ace06a9a0889040e930d67170711c8ac7e357 1547 main/binary-i386/Packages.gz
@@ -39,12 +39,12 @@ SHA256:
  e4f506bd982fabce38f8c27a1842a757146b0a7074d8870c461da3aa30edc792 120 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEwM7uKXtf5F/2EKrG8F+F+kRsBCsFAliCUCcACgkQ8F+F+kRs
-BCsaUQgAzODSr2bBo0JssqijgrIjPrYUh18rxRM1rEqa2muNZVmJRIfFAV4AsLMj
-5M/gMJxH77odpCRutyV3wBkXkmzbW2KYQbV+yabBlkyUHVX4fqTOKC8+7CGp1pg5
-NoKts3v9bsQG1A+XjkQrxiEVaPlZUA6xENbB3ZvBf6R/3VRHjkVyd9Jolvtpt9we
-VygDe0Ixpsytw6m3RrkELLrjdhUwKZdIYV/q27GqMeKMIiH7M+7urHjK+XFMBlkc
-M6rIIb8hu+rkI9N6zt3l9q1de+sHR091iMEq4+Lo/A4dejB4Rv7tjJKo6xoqtXla
-m1quMu6EKYMCN5lTte1tKCbYVNdlbw==
-=4SBu
+iQEzBAEBCAAdFiEEwM7uKXtf5F/2EKrG8F+F+kRsBCsFAliCVRAACgkQ8F+F+kRs
+BCvmvAf/T5lyLnEJAUdlH+EMrPO/JJb45vzEnpEZ227ke12DHgMvmfGlR6ZZemIh
+vqQ/l6E+S0NMscciCNYP29LSrKQOkxPeB7CQLkxDQPvi33lNATeNng4ZqEk3spks
+riz2XSixQDzzupxJYcbt6gDV0w/lnZ/Q64THYBA7s30Nwxeulw/pgI2xpMMwpm+Z
+7V6AzkjW0Ea5iSzGScFg7ITch0xPzchyAgEZPY/AGpYTd3mEG0JheQQ263gfiU5S
+Kq36AjMc0Jk6aBxsTjdRfLC7pUqliix3OExwAs57u7icwZQgQfO52YDUtmHF7ByZ
+t7w2HNnQ3jmuH205yX+HOTEf/U8DpA==
+=yDqD
 -----END PGP SIGNATURE-----

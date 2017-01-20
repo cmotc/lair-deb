@@ -1,0 +1,4 @@
+Component: main
+Origin: cmotc.github.io/lair-deb
+Label: cmotc.github.io/lair-deb
+Architecture: amd64

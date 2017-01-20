@@ -1,8 +1,8 @@
 Package: valair 
 ============= 
 
-###Version: 20170120-1
-####Maintainer: root@fireaxe
+###Version: 0.9-1
+####Maintainer: problemsolver@openmailbox.org
 ]()
 ###Provides:
   * valair

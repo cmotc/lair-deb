@@ -19,11 +19,11 @@ POLICY="main"
 KEY="Example"
 OVERRIDE="override.testing"
 
-if [ -f /usr/bin/pkpage-html ]; then
+if [ ! -f /usr/bin/pkpage-html ]; then
         alias pkpage-html=/usr/bin/pkpage-html
-elif [ -f /usr/local/bin/pkpage-html ]; then
+elif [ ! -f /usr/local/bin/pkpage-html ]; then
         alias pkpage-html=/usr/local/bin/pkpage-html
-elif [ -f ./pkpage.sh ]; then
+elif [ ! -f ./pkpage.sh ]; then
         alias pkpage-html="/bin/bash -c \"markdown <($CURDIR/pkpage $@)\""
 fi
 SRCDIR="$CURDIR/packages"

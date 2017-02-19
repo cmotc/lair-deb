@@ -101,10 +101,10 @@ Provides: valair
 Priority: extra
 Section: checkinstall
 Filename: pool/main/v/valair/valair_0.9-1_amd64.deb
-Size: 54312
-SHA256: f55f48200bc3d97e2aa4cb017a6768f5399856ad0f679f1e771b1b39c874752f
-SHA1: 7e2ceab5dec90ec69119110ed379c505b1df8e56
-MD5sum: caeb41076498fae52d531d63943d7c65
+Size: 54446
+SHA256: c2191fe6857683156552aaa4802fd752d8e5ea685e88c4038fe7b6146b10de5e
+SHA1: f08ca218b27e8264d82e91c6abe4caab1954563f
+MD5sum: 191b39c3a3870f3389b9b7f783413873
 Description: LAIR! Roguelike Game, version 0.9
  LAIR is a Procedurally Generated Mutliplayer Rogue-Like Game.
  It uses a library of content and a set of Lua scripts to

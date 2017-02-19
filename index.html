@@ -69,14 +69,14 @@ date</p>
 
     echo "deb https://cmotc.github.io/lair-web/lair-deb/debian rolling main" | sudo tee /etc/apt/source.list.d/cmotc.github.io.lair-web.lair-deb.list
 
-    wget -q0 - https://cmotc.github.io/lair-web/lair-deb/cmotc.github.io.lair-web.lair-deb.gpg.key | sudo apt-key add -
+    wget -qO - https://cmotc.github.io/lair-web/lair-deb/cmotc.github.io.lair-web.lair-deb.gpg.key | sudo apt-key add -
 
 
     ###alternatively via Tor:
 
     echo "deb http:///debian rolling main" | sudo tee /etc/apt/source.list.d/.list
 
-    wget -q0 - http:///cmotc.github.io.lair-web.lair-deb.gpg.key | sudo apt-key add -
+    wget -qO - http:///cmotc.github.io.lair-web.lair-deb.gpg.key | sudo apt-key add -
 </code></pre>
 
 

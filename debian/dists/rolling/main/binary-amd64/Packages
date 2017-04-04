@@ -140,3 +140,18 @@ Description: Generates a Markdown-formatted description of a software package
  contents of your debian package, grep and sed, and doesn't need bash, so it
  should run fine on any Debian-based system.
 
+Package: sdl2-vapi
+Installed-Size: 780
+Maintainer: idk@fireaxe
+Architecture: amd64
+Version: 2.0-1
+Provides: sdl2-vapi
+Priority: extra
+Section: checkinstall
+Filename: pool/main/s/sdl2-vapi/sdl2-vapi_2.0-1_amd64.deb
+Size: 33508
+SHA256: 6506ac393a4973f991ea679066dd434b368afce3125d51214d04759cc812568a
+SHA1: bd7d3ee2f4b53711adf928b5388282c0b19f8240
+MD5sum: 4addd59fef5e6b7b228c7ba6e7b6ca7a
+Description: Package created with checkinstall 1.6.2
+

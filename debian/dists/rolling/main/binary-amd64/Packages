@@ -70,10 +70,10 @@ Provides: sdl2-vapi
 Priority: extra
 Section: checkinstall
 Filename: pool/main/s/sdl2-vapi/sdl2-vapi_2.0-1_amd64.deb
-Size: 33500
-SHA256: 66c14df1aa9dafd8954506aaa8186a8fd656400326fd83d8b4432ca34d0e6af0
-SHA1: 9ca59419e53bd3ce7ab82457b170f9a13c6e24d9
-MD5sum: 4ac199b6fd8a13ac6145a65736641675
+Size: 33508
+SHA256: 652a4ddaf1490c22de64b12cbcf52851c32b454fe0787d168154662d7a0b9f8c
+SHA1: 4056fa58f3d3c85007987173b0c29e41ea4e2e79
+MD5sum: a81cf7eb7ed721dccf1a408dab8c3aff
 Description: Package created with checkinstall 1.6.2
 
 Package: tartrazine
@@ -85,10 +85,10 @@ Provides: tartrazine
 Priority: extra
 Section: checkinstall
 Filename: pool/main/t/tartrazine/tartrazine_0.9-1_amd64.deb
-Size: 18042
-SHA256: e795d9683d23aa8951526bbdc5adccbfdba12da24fae363ab62b3724f98c1cd9
-SHA1: 04f5d5675ae7f926fa8faa3d2ebb83571aa761a9
-MD5sum: fcfb639cc3b38bca7bbc8282905321b1
+Size: 18082
+SHA256: 3a34e8fd6a5099c14bb317403d8eebd705f16d5eb1b838b7d26c252b2401197b
+SHA1: 5fd5ed86bf866b38dd5c79e4adabc975fd1dc4fa
+MD5sum: 8036ef606d4881867f73f221dd7b7b6c
 Description: Package created with checkinstall 1.6.2
 
 Package: tox-vapi
@@ -100,9 +100,9 @@ Provides: tox-vapi
 Priority: extra
 Section: checkinstall
 Filename: pool/main/t/tox-vapi/tox-vapi_0.9-1_amd64.deb
-Size: 18962
-SHA256: 66bd33dd7a9d9a1c305919f65be6a3141a8b8486a8cd46d792ee37b3a84c01db
-SHA1: d57470a7e8566acedecf1f5649363ddfb53f899f
-MD5sum: 46b0b6a1f2038a9d33c647a68eefa209
+Size: 18954
+SHA256: 3142239708ec90e31b3a589c7733975616fb197a9199c159e8ccde7189c4ebbe
+SHA1: 2a4d7d8965e77ebf6d8000555f019fcca4e4aae5
+MD5sum: 8ae0606325e925656b699280e75e1886
 Description: Package created with checkinstall 1.6.2
 

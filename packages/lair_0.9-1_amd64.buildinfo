@@ -7,20 +7,20 @@ Binary: lair
 Architecture: amd64 source
 Version: 0.9-1
 Checksums-Md5:
- ed69bd41f564227c7687c068df691583 1550 lair_0.9-1.dsc
+ de84f9685fabdb2af794aaafee7b2781 1550 lair_0.9-1.dsc
  6f376eafc6e3fc823005e510f0374dac 373112 lair-dbgsym_0.9-1_amd64.deb
  bef627fdcd38cb5dfb160821158acbfb 65188 lair_0.9-1_amd64.deb
 Checksums-Sha1:
- 427d8d3759937848e025ce83c36d9a48f4bf4262 1550 lair_0.9-1.dsc
+ 7136de62ff2b8572d0c06b05b90e6a0e5b325ad7 1550 lair_0.9-1.dsc
  ab47a976b524659e642f1a9052af210b9c2e0cb0 373112 lair-dbgsym_0.9-1_amd64.deb
  53b4230a304614d9634fc6ce8810e0ed650abf87 65188 lair_0.9-1_amd64.deb
 Checksums-Sha256:
- 050c32531c320a46a61eac79ac0c621fc0483056be04900c790ede5dae69f1a3 1550 lair_0.9-1.dsc
+ d4ad1739a241b9e44e67afd5a04b2b8febec00e8539af063733d646520e690d2 1550 lair_0.9-1.dsc
  941382ac48d5103f77ef253f4ebc8be81c14c2b052723cad1f85ceb7a4867698 373112 lair-dbgsym_0.9-1_amd64.deb
  dea1b29845595b437159d38326cc0f89bd7208a94db2b5273090724eb3c84b48 65188 lair_0.9-1_amd64.deb
 Build-Origin: Devuan
 Build-Architecture: amd64
-Build-Date: Wed, 05 Apr 2017 21:18:18 -0400
+Build-Date: Wed, 05 Apr 2017 21:28:54 -0400
 Installed-Build-Depends:
  autoconf (= 2.69-10),
  automake (= 1:1.15-6),
@@ -385,13 +385,13 @@ Environment:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFSBAEBCAA8FiEEwM7uKXtf5F/2EKrG8F+F+kRsBCsFAljll10eHHByb2JsZW1z
-b2x2ZXJAb3Blbm1haWxib3gub3JnAAoJEPBfhfpEbAQrTkgIAJYuqnUJRvxfyljT
-gRQkhDZkE6CwEOjeLwVf0LgemgsAuBiuIr2Q+n+UdifnmzSCuyGwiCvY3aHp/5gT
-SdX9UWI1cGR7PosQmHK4Z7falokh4G/QaE+fJXR5L61JNebGFYRX7/ZrE+mNmaEy
-x0qlO0Pgc+/CXIjHV9Ij8ygpmqpgqhSL7N2x/S5Sjb4IXGMh5QUWZG9kRIRjQjAc
-f0PFptldv0YJrPYXL/rB8ubKxVwPSvlHYioQs1ati/fkmI56JNelUY+5dqg39hZY
-3+qCmCmr9lCVeUQr0JbzeORrHIngwQ+u18dxylhJka3yoHm5FXSiZ2T5SOgFNp/3
-VxJEdY4=
-=8M/p
+iQFSBAEBCAA8FiEEwM7uKXtf5F/2EKrG8F+F+kRsBCsFAljlmdgeHHByb2JsZW1z
+b2x2ZXJAb3Blbm1haWxib3gub3JnAAoJEPBfhfpEbAQrsyYH/R4ao2KC/iu0QP7K
+fA/bzl/KUsMR4RvnoJpwHmJjk6HB/vKiWnZ8vVnthGuNcZS+QUB5oq43dP8zaAcY
+jDKi+CdiNmhlv9HvW8eryn6DxiDvjoDnbDQQ0CJ2UToytuDioxE9N1Wiy2Tk92el
+IAZRTXSbCvcrsT/HI+3bua7xREzxbxHVaVlbLSu/Cfs3phLmZ47qfAOh164603KS
+fnIRP8hyRdNmNWF60Vd8s5Vv9nmIT6CdnalhprB9/N6GUyNgQPYNdilMSwuzFgUR
+Z4nKIE0ifSAu3kL6EY65am0x/9lO4LZLExGl/rpU+JVVzlOmSQSXhyHjx6/Owom9
+EYwlieE=
+=Mk9v
 -----END PGP SIGNATURE-----

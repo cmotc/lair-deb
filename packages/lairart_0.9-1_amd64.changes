@@ -18,32 +18,32 @@ Changes:
  .
    * One more try getting all these things to use the same number
 Checksums-Sha1:
- 77d88b49d64df2bd855aedec1f0ee16e78af3ad9 1376 lairart_0.9-1.dsc
+ 7c2fb520708799aa36a915d2be23a2f269678165 1376 lairart_0.9-1.dsc
  da76c150a7dab68957107822494bdd5d4c7b9825 62054667 lairart_0.9.orig.tar.gz
  21682a1d98ee8bf437ce6758a4e3bdb754ea8d67 8068 lairart_0.9-1.debian.tar.xz
- ef4c4d0b337b50435a259fac5fd90d5ea2f5da88 5537 lairart_0.9-1_amd64.buildinfo
+ 5a404702c94ce5cf6f48650c5da04ba56b78b1e4 5537 lairart_0.9-1_amd64.buildinfo
  5d8b80e9cccf13d68ef64d72bd6d25626511ff21 66326 lairart_0.9-1_amd64.deb
 Checksums-Sha256:
- 05412263742ab93bf7dac02c2078cf30162d7aa77c3bdbddf4de82a637536e18 1376 lairart_0.9-1.dsc
+ 61dfdab208c7e7feefa8c0ac5e8f7f4d4544b56281e540443ca979f02ccc9493 1376 lairart_0.9-1.dsc
  edbc94e409dbc31199475fc991ece860456e76574198e171841ee7f9f7ac07e9 62054667 lairart_0.9.orig.tar.gz
  43cc2703c91bacc7510278c538cebc81b2663bf867cd38dd1569a11b203a0933 8068 lairart_0.9-1.debian.tar.xz
- 66557974a6361a343ad6cdd67e4349126fa2bed739933804c191dc5030ef2514 5537 lairart_0.9-1_amd64.buildinfo
+ c6d485f55b5196723b5f2a8d1726b971c01074e23fd8c5df850eaee6d0d0084e 5537 lairart_0.9-1_amd64.buildinfo
  17262add988da059bd41e25527a2208c0bb7a161d17008a3cf3d6d73a8bda70d 66326 lairart_0.9-1_amd64.deb
 Files:
- f2b6a2690590b18000510a820b019fd8 1376 games extra lairart_0.9-1.dsc
+ e5a109fbc0ed885e35d6edb59b5de5b2 1376 games extra lairart_0.9-1.dsc
  ccf82f9768ab001bdab9928c3b6ae739 62054667 games extra lairart_0.9.orig.tar.gz
  ddb9d5b17283eeaa263c41cdcf0d2348 8068 games extra lairart_0.9-1.debian.tar.xz
- 7adbd585e3afdcc36ec5f4bc71c58563 5537 games extra lairart_0.9-1_amd64.buildinfo
+ 64a00f6ee01f74df8c00f9972af386b4 5537 games extra lairart_0.9-1_amd64.buildinfo
  44edcd929356f5defb51d79078df62eb 66326 games extra lairart_0.9-1_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEwM7uKXtf5F/2EKrG8F+F+kRsBCsFAlk6QrEACgkQ8F+F+kRs
-BCuAbggAqCJQlJkK5hjL1SYmtxdE7nGLp8xHDKSISumP3mgUEjsQm8v13yBtXi0G
-rITul6fZYbZSlZuRLV9cbr7/uYNoEpziwNHhkIRzasNbitccOJ4dFPAeDgDBq2s9
-OgXR2qXISoIQF1+ZJfPH1KjMNt3Bhij0WCrsH0VUPbbkQbKrRjoqUy6lMINAbh/3
-YQBSNnrQtNqYNIFS6ftW65XNiN8G9GMxUH970CrdKG4P5Ti54L9bv9Bdi1zM1jhm
-S6RbLwtFzc2iZynZR/C5/UFckIEhcj18NxbPApGObGhcAJvy6SwR2xOPszfBjXBS
-5RVrMGNlXPCu4FjLeoRNp9aKxqaywg==
-=9hxk
+iQEzBAEBCAAdFiEEwM7uKXtf5F/2EKrG8F+F+kRsBCsFAlk6QxsACgkQ8F+F+kRs
+BCtThAgAjoMIHNqfa08Q/klsDYh8ewrSzvy9GaRPit7YAUv0JT4IyBwahTRHxuCj
+Oyao2Pk6Ldek0JIWWUluThXynOklaV/oiLxMwb0ywoRRVl9Xkd0l9O0hakV1Ka8g
+drZdDGXwleblmsePkB8c2qeuq3+loZwBIQ/rrcIeMsmlVJvG8FPWFrcDXvgSnYZs
+VZtEqxPwuvSK0AY8RhElD4Bm6QFof7AVJiA9VemcF4vvZD+Lw7MYUBYAJD53zFYs
+b7Jes16eBUTO2Q+4YZwRo/ErKHuCUoWMm018f4xcHEohpvKPdpqmeGO46P4PyzzV
+kKt7DLPa/D1cKNGFk+wTvcntdzJeRA==
+=tGkn
 -----END PGP SIGNATURE-----

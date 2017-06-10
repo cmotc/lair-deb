@@ -7,15 +7,15 @@ Binary: lair
 Architecture: amd64 source
 Version: 0.9-1
 Checksums-Md5:
- 13286470ba90e160b050ab92e698ae0e 1509 lair_0.9-1.dsc
+ a7e7bfdc9810a98e052f44395066cd9a 1509 lair_0.9-1.dsc
  31fbd96f3390c8e8342a810744c48d72 406972 lair-dbgsym_0.9-1_amd64.deb
  04d5ad0263a469ea7cef9c8c990c0f57 71018 lair_0.9-1_amd64.deb
 Checksums-Sha1:
- 2e00820f428002c898c94ac6667b35cd7dac2f5c 1509 lair_0.9-1.dsc
+ a4fb681dc9e8c8998bf6622795eb027a6390ebb8 1509 lair_0.9-1.dsc
  de95b6c2226d5da34fafeff627a66c9ac1ab7924 406972 lair-dbgsym_0.9-1_amd64.deb
  6bfde0f6b7a4ab1cddafbdec8332869fa90ca181 71018 lair_0.9-1_amd64.deb
 Checksums-Sha256:
- f0b4c1ff2649f0b19aa37eee1e7407b004165fcef9dd4183a32409ce14b822b4 1509 lair_0.9-1.dsc
+ 22e6fb70b9f4187a21911eef1570e6610fca9881ee62297e3d45d6eb2d9ad6a9 1509 lair_0.9-1.dsc
  58fbef01c9733fd3fac24e166944d802ee1fe02ba1b3d65d8da1d74cfc825d24 406972 lair-dbgsym_0.9-1_amd64.deb
  1d079321ad28e4c13abaaf2c82cf2a31125c0a8d4a8073ca1220f81a51fd33c8 71018 lair_0.9-1_amd64.deb
 Build-Origin: Devuan
@@ -384,12 +384,12 @@ Environment:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEwM7uKXtf5F/2EKrG8F+F+kRsBCsFAlk6Ql0ACgkQ8F+F+kRs
-BCuQhgf9FW3rSJbaliS7o9hf/4RWyJrVKJcUDYKnpPt0xg9Qj8xlMFJrMLk17NgC
-TBbMNIe4DRL+6ZSsU1tbMdybmEGAZ9votIiElEsC3chny3YoYK7sylRImlYasxTU
-cLArVPXHkgNEm+WV7cdyTMws6JG0QNtq6zvbH704QtChHfv4s+G6glVWgpv7BAAB
-n6vbH/1ZUMEm3wymS6DB4qXtV/sZryXhlTT+YnkhxxdjFakC9ErCRVx5c4xqJwxG
-8LH+Nup0pWQbr11kEU1JgO421p4MDDIzeaQ4xd9MGkJMHbHG2vSZ7xZN4IWKQVHm
-cBiBsYbmZVEaLPiMRJb2V26Gi24epw==
-=r/eN
+iQEzBAEBCAAdFiEEwM7uKXtf5F/2EKrG8F+F+kRsBCsFAlk6QxwACgkQ8F+F+kRs
+BCvhlwgAxSlLlKl2qWcic+aZFUstV3eoFkYJ/fpj79lIrUpWaHZBoJ0bW2uKS0BS
+2sl3qLjWHhzvpyr3itMJMOjUbBvuat3dCgheXwBbtQk2JOQ8rn1fshzi9+F8N/30
+TvQQmERAiTTATPegR/t0l0ukSl3K8X+j8oNoLyny96/Do5hMH3TdZ8WrTwc2rI5G
+IgxrfzZjYYcHo7p6aic1ncbQnvJ468gFZR44XoJyKeb/fxtyDBVupILFM0B74bBN
+d/q5nQmY/lLLYAoLRKp1hGfU8ysf9JNlIwyFIdh06mnevx8lDFsBrkPl9bPVqLCK
+UrTQU7WxGc5hgKCag7r5Q2FtJtGWGg==
+=kxVF
 -----END PGP SIGNATURE-----
